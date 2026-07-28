@@ -4,7 +4,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "minecraft/textures/item/GamblingCrate",
-		"particle": "block/GamblingCrate"
+		"particle": "minecraft/textures/item/GamblingCrate"
 	},
 	"elements": [
 		{
